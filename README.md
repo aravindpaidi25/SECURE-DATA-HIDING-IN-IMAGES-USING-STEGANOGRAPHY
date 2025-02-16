@@ -1,6 +1,6 @@
 # SECURE-DATA-HIDING-IN-IMAGES-USING-STEGANOGRAPHY
 
-## 📌 Project Overview  
+##  Project Overview  
 This project implements a simple **steganography technique** to hide secret messages within images by modifying pixel values based on ASCII mappings. It also includes a **password-protected decryption process** to retrieve hidden messages.  
 
 ## Features  
